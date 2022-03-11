@@ -1,0 +1,15 @@
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Arrays\obj\Debug\net6.0\ref\Arrays.dll
