@@ -1,0 +1,15 @@
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\bin\Debug\net6.0\Numbers.exe
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\bin\Debug\net6.0\Numbers.deps.json
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\bin\Debug\net6.0\Numbers.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\bin\Debug\net6.0\Numbers.pdb
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.pdb
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+D:\Revature\dotnetFullStack\csharp9anddotnet5_moderncrossplatformdevelopment\Chapter02\Numbers\obj\Debug\net6.0\ref\Numbers.dll
