@@ -17,7 +17,6 @@ Console.WriteLine($"{nameof(naturalNumber)} = {naturalNumber}");
 Console.WriteLine($"{nameof(integerNumber)} = {integerNumber}");
 Console.WriteLine($"{nameof(realNumber)} = {realNumber}");
 Console.WriteLine($"{nameof(anotherRealNumber)} = {anotherRealNumber}");
-
 Console.WriteLine($"sbyte uses {sizeof(sbyte)} bytes and can store numbers in the range {sbyte.MinValue:N0} to {sbyte.MaxValue:N0}");
 Console.WriteLine($"byte uses {sizeof(byte)} bytes and can store numbers in the range {byte.MinValue:N0} to {byte.MaxValue:N0}");
 Console.WriteLine($"short uses {sizeof(short)} bytes and can store numbers in the range {short.MinValue:N0} to {short.MaxValue:N0}");
@@ -29,3 +28,20 @@ Console.WriteLine($"ulong uses {sizeof(ulong)} bytes and can store numbers in th
 Console.WriteLine($"float uses {sizeof(float)} bytes and can store numbers in the range {float.MinValue:E} to {float.MaxValue:E}");
 Console.WriteLine($"double uses {sizeof(double)} bytes and can store numbers in the range {double.MinValue:E} to {double.MaxValue:E}");
 Console.WriteLine($"decimal uses {sizeof(decimal)} bytes and can store numbers in the range {decimal.MinValue:N0} to {decimal.MaxValue:N0}");
+int N = int.Parse(Console.ReadLine());
+int K = 0;
+// Write an answer using Console.WriteLine()
+// To debug: Console.Error.WriteLine("Debug messages...");
+for (int i = 2; i <= N; i++)
+{
+    if (i % 2 == 0) {
+        K = K + i;
+    }
+}
+
+Console.WriteLine($"{K}");
+
+static int NewMethod()
+{
+    return int.Parse(Console.ReadLine());
+}
